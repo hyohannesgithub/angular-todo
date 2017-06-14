@@ -1,1 +1,22 @@
-
+{
+  "name": "angular-todo",
+  "version": "3.10.10",
+  "description": "package.json initialisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "tbd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyohannesgithub/angular%3Dtodo.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Habtemariam Yohannes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyohannesgithub/angular%3Dtodo/issues"
+  },
+  "homepage": "https://github.com/hyohannesgithub/angular%3Dtodo#readme"
+}
